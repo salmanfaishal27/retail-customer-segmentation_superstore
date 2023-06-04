@@ -8,27 +8,27 @@ Dataset yang digunakan adalah "Superstore" yang tersedia di platform [Kaggle](ht
 
 Berikut adalah deskripsi atribut yang terdapat dalam dataset ini:
 
-Row ID: ID baris dalam dataset.
-Order ID: ID pesanan.
-Order Date: Tanggal pesanan.
-Ship Date: Tanggal pengiriman.
-Ship Mode: Mode pengiriman (contoh: Standard Class, Second Class, dll.).
-Customer ID: ID pelanggan.
-Customer Name: Nama pelanggan.
-Segment: Segmen pelanggan (contoh: Consumer, Corporate, Home Office).
-Country: Negara tempat toko ritel berada.
-City: Kota tempat toko ritel berada.
-State: Negara bagian tempat toko ritel berada.
-Postal Code: Kode pos tempat toko ritel berada.
-Region: Wilayah geografis tempat toko ritel berada.
-Product ID: ID produk.
-Category: Kategori produk (contoh: Furniture, Office Supplies, Technology).
-Sub-Category: Sub-kategori produk.
-Product Name: Nama produk.
-Sales: Jumlah penjualan.
-Quantity: Jumlah kuantitas yang dibeli.
-Discount: Diskon yang diberikan pada penjualan.
-Profit: Keuntungan yang diperoleh dari penjualan.
+1. Row ID: ID baris dalam dataset.
+2. Order ID: ID pesanan.
+3. Order Date: Tanggal pesanan.
+4. Ship Date: Tanggal pengiriman.
+5. Ship Mode: Mode pengiriman (contoh: Standard Class, Second Class, dll.).
+6. Customer ID: ID pelanggan.
+7. Customer Name: Nama pelanggan.
+8. Segment: Segmen pelanggan (contoh: Consumer, Corporate, Home Office).
+9. Country: Negara tempat toko ritel berada.
+10. City: Kota tempat toko ritel berada.
+11. State: Negara bagian tempat toko ritel berada.
+12. Postal Code: Kode pos tempat toko ritel berada.
+13. Region: Wilayah geografis tempat toko ritel berada.
+14. Product ID: ID produk.
+15. Category: Kategori produk (contoh: Furniture, Office Supplies, Technology).
+16. Sub-Category: Sub-kategori produk.
+17. Product Name: Nama produk.
+18. Sales: Jumlah penjualan.
+19. Quantity: Jumlah kuantitas yang dibeli.
+20. Discount: Diskon yang diberikan pada penjualan.
+21. Profit: Keuntungan yang diperoleh dari penjualan.
 
 Dataset ini dapat digunakan untuk berbagai analisis dan pemodelan terkait penjualan dan performa toko ritel. Dengan menggunakan dataset ini, dapat dilakukan analisis tren penjualan, segmentasi pelanggan, pengelompokan produk, dan penentuan strategi pemasaran yang efektif.
 
